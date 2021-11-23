@@ -1,0 +1,4 @@
+templates/.terraform
+templates/.terraform.lockhcl
+templates/terraform.tfstate
+templates/terraform.tfstate.backup
